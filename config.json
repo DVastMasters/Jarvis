@@ -1,0 +1,33 @@
+{
+    "name": "jarvis",
+    "actions": [
+        {
+            "prefix": "qual",
+            "items": [
+                {
+                    "name": "anime",
+                    "gradations": [
+                        "mais",
+                        "menos"
+                    ],
+                    "options": [
+                        "popular"
+                    ]
+                }
+            ]
+        },
+        {
+            "prefix": "indique",
+            "items": [
+                {
+                    "name": "tópico",
+                    "gradations": [],
+                    "options": [
+                        "aleatório"
+                    ]
+
+                }
+            ]
+        }
+    ]
+}

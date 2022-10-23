@@ -1,0 +1,43 @@
+[
+        {
+            "title": "Attack on Titan",
+            "count_topics": 16
+        },
+        {
+            "title": "One Punch Man",
+            "count_topics": 7
+        },
+        {
+            "title": "Boku no Hero Academia",
+            "count_topics": 17
+        },
+        {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "count_topics": 9
+        },
+        {
+            "title": "Death Note",
+            "count_topics": 4
+        },
+        {
+            "title": "Kimi no Na wa.",
+            "count_topics": 13
+        },
+        {
+            "title": "Nanatsu no Taizai",
+            "count_topics": 21
+        },
+        {
+            "title": "Hunter x Hunter",
+            "count_topics": 4
+        },
+        {
+            "title": "Spirited Away",
+            "count_topics": 19
+        },
+        {
+            "title": "One Piece",
+            "count_topics": 37
+        }
+
+    ]
